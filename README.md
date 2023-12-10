@@ -1,16 +1,3 @@
-# splited_code
+#BOOKeRA#
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this we have developed an application where user will be able to read any book user wanted to read of his/her choice whenever he/she needs. In this application we have many features like user will be able to turn on dark mode if user wants to read that book at night time also. For login and signup purpose it takes the mobile number of the user for the code verification in terms of the OTP verification after that user is redirected to the Dashboard page where user will be able to see the list of different books of choice. And user will also filter out the specific books as per the needs and choice. 
